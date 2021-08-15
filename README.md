@@ -55,7 +55,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/arpitv970/github-readme-activity-graph"><img alt="Arpit Verma's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=arpitv970&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/jitendrad182/github-readme-activity-graph"><img alt="Jitendra Dhakar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jitendrad182&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
